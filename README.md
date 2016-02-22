@@ -1,2 +1,3 @@
 # hello-world
-Github test
+
+Testing branching / editing / commiting on github
